@@ -1,0 +1,48 @@
+c:\users\zoe ma\documents\visual studio 2015\Projects\VideoAnnotator\VideoAnnotator\bin\Debug\VideoAnnotator.exe.config
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\obj\Debug\VideoAnnotator.Form1.resources
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\obj\Debug\VideoAnnotator.Properties.Resources.resources
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\obj\Debug\VideoAnnotator.csproj.GenerateResource.Cache
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\bin\Debug\VideoAnnotator.exe
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\bin\Debug\VideoAnnotator.pdb
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\obj\Debug\VideoAnnotator.exe
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\obj\Debug\VideoAnnotator.pdb
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\obj\Debug\VideoAnnotator.csproj.ResolveComReference.cache
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\obj\Debug\VideoAnnotator.Form2.resources
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\Visual Studio 2015\Projects\VideoAnnotator\VideoAnnotator\obj\Debug\VideoAnnotator.csprojResolveAssemblyReference.cache
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\bin\Debug\VideoAnnotator.exe.config
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\obj\Debug\VideoAnnotator.csproj.ResolveComReference.cache
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\obj\Debug\VideoAnnotator.exe
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\obj\Debug\VideoAnnotator.pdb
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\obj\Debug\VideoAnnotator.csprojResolveAssemblyReference.cache
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\obj\Debug\VideoAnnotator.Form1.resources
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\obj\Debug\VideoAnnotator.Form2.resources
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\obj\Debug\VideoAnnotator.Properties.Resources.resources
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\obj\Debug\VideoAnnotator.csproj.GenerateResource.Cache
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\bin\Debug\VideoAnnotator.exe
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\bin\Debug\VideoAnnotator.pdb
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v2\VideoAnnotator\obj\Debug\VideoAnnotator.Form3.resources
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\bin\Debug\VideoAnnotator.exe.config
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\VideoAnnotator.csproj.ResolveComReference.cache
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\VideoAnnotator.exe
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\VideoAnnotator.pdb
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\bin\Debug\VideoAnnotator.exe
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\bin\Debug\VideoAnnotator.pdb
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\bin\Debug\Interop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\VideoAnnotator.csprojResolveAssemblyReference.cache
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\VideoAnnotator.Form1.resources
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\VideoAnnotator.Form2.resources
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\VideoAnnotator.Form3.resources
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\VideoAnnotator.Properties.Resources.resources
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\VideoAnnotator.csproj.GenerateResource.Cache
+C:\Users\Zoe Ma\Documents\VideoAnnotator_v3\VideoAnnotator\obj\Debug\VideoAnnotator.Form4.resources
